@@ -16,6 +16,6 @@ javascript:(function(){function c(){var e=document.createElement("link");e.setAt
 
 --- 
 
-Now go to your favourite browser and load up a site. If you’re looking for inspiration, nsa.gov works well as does ashleymadison.com and just for a bit of variety, so does vatican.va. Go to any one of these sites, hit F12 to get the browser’s developer tools up then paste that big whack of script into the console. 
+Now go to your favourite browser and load up a site. If you’re looking for inspiration, [nsa.gov](https://www.nsa.gov/) works well as does [ashleymadison.com](https://www.ashleymadison.com) and just for a bit of variety, so does [vatican.va](https://www.vatican.va). Go to any one of these sites, hit F12 to get the browser’s developer tools up then paste that big whack of script into the console. 
 
 Now you hit “enter” and sit there giggling to yourself like a five year old. Repeat as required until you’ve satisfied yourself that yes, you can cause most websites to do the Harlem Shake by modifying the DOM after the site has been loaded into your browser.
